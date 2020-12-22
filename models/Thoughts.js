@@ -8,7 +8,7 @@ const ThoughtsSchema = new Schema(
             min: 1,
             max: 280
         },
-        usernmae: {
+        username: {
             type: String,
             required: true
         }
