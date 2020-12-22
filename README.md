@@ -42,4 +42,4 @@
 
   If you have any questions, please feel free to email @ kmorarity@gmail.com.
   
-  You can see more of my work at https://github.com/km4891
+  You can see more of my work at [km4891](https://github.com/km4891)
